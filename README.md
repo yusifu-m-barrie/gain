@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Gain Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed by [Yusifu Mohamed Barrie](https://yusifu.netlify.app/).
 
 ## Available Scripts
 
